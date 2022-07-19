@@ -17,3 +17,6 @@
 - [올리브영](https://oliveyoung.tech/)
 - [DSCHLOE](https://dschloe.github.io/)
 - [컴공생 C](https://kagus2.tistory.com/)
+
+# Anaconda
+- [Apple Silicon(M1) Macbook 에 Conda 설치하기(Miniforge)](https://cpuu.postype.com/post/9077219)
