@@ -9,6 +9,9 @@
 - [[docker] ubuntu 내 Anaconda 환경 구축(컨테이너 직접 작업)](https://omhdydy.tistory.com/6)
 - [macOS에 딥러닝을 위한 도커 환경 구축하기](https://wooiljeong.github.io/server/docker_mac)
 
+# Python
+- [file 존재 여부 체크](https://www.pythontutorial.net/python-basics/python-check-if-file-exists/)
+
 # Linux
 - [ubuntu에 anaconda 설치](https://thinmug.tistory.com/51)
 
