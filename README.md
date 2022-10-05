@@ -11,12 +11,19 @@
 
 # Python
 - [file 존재 여부 체크](https://www.pythontutorial.net/python-basics/python-check-if-file-exists/)
+- [pytest vs unittest](https://www.bangseongbeom.com/unittest-vs-pytest.html)
 
 # Linux
 - [ubuntu에 anaconda 설치](https://thinmug.tistory.com/51)
 
+# Git
+- [git conflict 시 해결방법](https://velog.io/@ha0kim/GIT-conflict-%EC%8B%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+
 # Unsupervised learning
 - [Greedy layer-wise training of deep networks](https://89douner.tistory.com/m/340)
+
+# VAE
+- [VAE 직관적 이해](https://taeu.github.io/paper/deeplearning-paper-vae/)
 
 # 기술 블로그
 - [banksalad](https://blog.banksalad.com/tech/)
