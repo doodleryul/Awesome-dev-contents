@@ -12,6 +12,7 @@
 # Python
 - [file 존재 여부 체크](https://www.pythontutorial.net/python-basics/python-check-if-file-exists/)
 - [pytest vs unittest](https://www.bangseongbeom.com/unittest-vs-pytest.html)
+- [파이썬 패키지 작성하기](https://code.tutsplus.com/ko/tutorials/how-to-write-your-own-python-packages--cms-26076)
 
 # Linux
 - [ubuntu에 anaconda 설치](https://thinmug.tistory.com/51)
