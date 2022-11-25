@@ -38,3 +38,6 @@
 
 # Anaconda
 - [Apple Silicon(M1) Macbook 에 Conda 설치하기(Miniforge)](https://cpuu.postype.com/post/9077219)
+
+# Math
+- [latex cheet sheet](https://www.math.brown.edu/johsilve/ReferenceCards/TeXRefCard.v1.5.pdf)
