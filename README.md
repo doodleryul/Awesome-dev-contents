@@ -13,6 +13,8 @@
 - [file 존재 여부 체크](https://www.pythontutorial.net/python-basics/python-check-if-file-exists/)
 - [pytest vs unittest](https://www.bangseongbeom.com/unittest-vs-pytest.html)
 - [파이썬 패키지 작성하기](https://code.tutsplus.com/ko/tutorials/how-to-write-your-own-python-packages--cms-26076)
+- [바이너리 이미지 변환](https://myohyun.tistory.com/218)
+- [슬랙 알림봇 설정하여 매일 증시 알림 받기](https://dragon1-honey1-wayfarer.tistory.com/entry/Python-%EC%8A%AC%EB%9E%99Slack-%EC%95%8C%EB%A6%BC%EB%B4%87-%EC%84%A4%EC%A0%95%ED%95%98%EC%97%AC-%EB%A7%A4%EC%9D%BC-%EC%A6%9D%EC%8B%9C-%EC%95%8C%EB%A6%BC-%EB%B0%9B%EA%B8%B0-fin)
 
 ## Linux
 - [ubuntu에 anaconda 설치](https://thinmug.tistory.com/51)
