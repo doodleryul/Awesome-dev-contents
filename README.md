@@ -44,3 +44,6 @@
 - [올리브영](https://oliveyoung.tech/)
 - [DSCHLOE](https://dschloe.github.io/)
 - [컴공생 C](https://kagus2.tistory.com/)
+
+## 개발자의 글쓰기
+- [기술 글쓰기를 통해 개인 브랜딩을 구축하는 나만의 방법](https://wormwlrm.github.io/2022/08/20/Personal-Branding-from-Technical-Writing.html)
